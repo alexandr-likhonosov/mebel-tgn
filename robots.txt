@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mebel-tgn.ru/sitemap.xml
